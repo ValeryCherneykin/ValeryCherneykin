@@ -23,6 +23,29 @@
 
 ---
 
+### 💻 A Little Bit of Code:
+```cpp
+#include <iostream>
+
+class Valery {
+public:
+    std::string skills[] = {"C++", "OpenGL", "Boost", "Unreal Engine", "Git", "GitHub"};
+    std::string currentProjects[] = {"Shooter game in Unreal Engine", "2D game engine development"};
+    
+    void introduce() {
+        std::cout << "Hello, I'm Valery Cherneykin, a passionate game programmer!" << std::endl;
+    }
+};
+
+int main() {
+    Valery valery;
+    valery.introduce();
+    return 0;
+}
+```
+
+---
+
 ### 📫 How to Reach Me:
 [![Telegram Personal](https://img.shields.io/badge/Telegram%20Personal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherneykindev)
 [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krutskyue)
