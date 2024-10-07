@@ -33,7 +33,7 @@ public:
     std::string currentProjects[] = {"Shooter game in Unreal Engine", "2D game engine development"};
     
     void introduce() {
-        std::cout << "Hello, I'm Valery Cherneykin, a passionate game programmer!" << std::endl;
+        std::cout << "Hello, I'm Valery Cherneykin, a beginner game programmer!" << std::endl;
     }
 };
 
