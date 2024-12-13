@@ -1,51 +1,24 @@
-![Header](https://github.com/ValeryCherneykin/ValeryCherneykin/blob/main/dirty-monkey.png)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ValeryCherneykin&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="GitHub Stats" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ValeryCherneykin" alt="Profile Views" />
 
-### Hi there! 👋 I'm Valery Cherneykin
-🎮 A passionate C++ programmer and game developer. My ultimate goal is to create my own 2D game engine using C++ and leverage it for building unique and engaging games. Whether it's using Unreal Engine or crafting my own engine from scratch, I'm all about pushing the boundaries in game development.
+# Valery Cherneykin
 
----
-
-### 🔧 Technologies & Tools:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unreal-engine)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+*Exploring, building, and learning. This is where the journey begins.*
 
 ---
 
-### 🎮 Featured Projects:
-- **[Shooter on Unreal Engine](https://github.com/ValeryCherneykin/ShootThemUp)**: Developed a shooting mechanic, enemy system, and score tracking.
+### 📊 Activity & Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryCherneykin&layout=compact&langs_count=6&theme=transparent)
 
 ---
 
-### 📊 GitHub Stats:
-![ValeryCherneykin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValeryCherneykin&show_icons=true&theme=radical)
+### Projects
+
+- [Check out my repositories](https://github.com/ValeryCherneykin)
 
 ---
 
-### 💻 A Little Bit of Code:
-```cpp
-#include <iostream>
+### 📫 Contact
 
-class Valery {
-public:
-    std::string skills[] = {"C++", "OpenGL", "Boost", "Unreal Engine", "Git", "GitHub"};
-    std::string currentProjects[] = {"Shooter game in Unreal Engine", "2D game engine development"};
-    
-    void introduce() {
-        std::cout << "Hello, I'm Valery Cherneykin, a beginner game programmer!" << std::endl;
-    }
-};
-
-int main() {
-    Valery valery;
-    valery.introduce();
-    return 0;
-}
-```
-
----
-
-### 📫 How to Reach Me:
-[![Telegram Personal](https://img.shields.io/badge/Telegram%20Personal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherneykindev)
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krutskyue)
+[Telegram](https://t.me/cherneykindev) | [GitHub](https://github.com/ValeryCherneykin)
