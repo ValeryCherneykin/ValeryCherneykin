@@ -15,10 +15,10 @@
 
 ### Projects
 
-- [Check out my repositories](https://github.com/ValeryCherneykin)
+- [My repositories](https://github.com/ValeryCherneykin?tab=repositories)
 
 ---
 
 ### 📫 Contact
 
-[Telegram](https://t.me/cherneykindev) | [GitHub](https://github.com/ValeryCherneykin)
+[Telegram](https://t.me/cherneykindev) | [Telegram channel](https://t.me/krutskyue)
