@@ -1,24 +1,25 @@
-# Valery Cherneykin
+Valery Cherneykin
 
-*Exploring, building, and learning. This is where the journey begins.*
+Я — человек, который любит технологии и программирование. Обожаю создавать автоматизацию, чтобы все работало идеально и “с коробки”. Мечтаю сделать свой рабочий процесс таким образом, чтобы за пару кликов на любом чистом компьютере я мог настроить его под себя. Поэтому на моем GitHub вы скорее всего найдете только конфиги и настройки, созданные для меня. Но, возможно, в будущем появится что-то, кроме этого.
+
+О себе:
+	
+ 1.	Люблю Vim и стремлюсь сделать конфиг минималистичным и быстрым. Пока этого нет, но работаю над этим.
+	
+ 2.	Не ограничиваюсь конкретными языками программирования и технологиями — это просто инструменты для меня. Сейчас программирую на Go, но так же люблю C++, поэтому для меня не имеет значения, на чем писать.
+	
+ 3.	Веду свой Telegram-канал, где делюсь мыслями о различных технологиях, рассказываю о том, что делаю, и, возможно, вы узнаете что-то новое.
+	
+ 4.	Интересуюсь тем, как делать вещи для бизнеса, потому что это захватывающе.
+	
+ 5.	Стремлюсь создавать хороший и полезный софт для всех.
+	
+ 6.	И, конечно, не хочу быть рабом искусственного интеллекта, потому что vibe Coding != AI.
+	
+ 7.	Удачи!
 
 ---
 
-## Stats
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ValeryCherneykin&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryCherneykin&layout=compact&langs_count=6&theme=transparent" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### Projects
-
-- [My repositories](https://github.com/ValeryCherneykin?tab=repositories)
-
----
-
-### 📫 Contact
+📫 Contact
 
 [Telegram](https://t.me/cherneykindev) | [Telegram channel](https://t.me/krutskyue)
